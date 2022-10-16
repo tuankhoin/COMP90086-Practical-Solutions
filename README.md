@@ -6,7 +6,9 @@ I'm creating this little repo to put my modified workshop material for UniMelb C
 
 Created by Kris Ehinger, major rework done by Jiayang Ao and COMP90086 Teaching Team, where I (Khoi Nguyen) tweaked a little bit in. Have fun!
 
-> Note: If you like it, a star would make me look cool on my GitHub Profile!
+> Note 1: If you like it, a star would make me look cool on my GitHub Profile!
+
+> Note 2: I've put the DALL-E generation results up on this repo, for each class. The fact that we created this together, makes it a good memory between us all yeah!
 
 > End of sem note: It has been a very great experience teaching you all! It is a pleasure for me to have such awesome students in the class like you, and I kindly thank you all, for gifting me these precious memories that I won't forget.
 
